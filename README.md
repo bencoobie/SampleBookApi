@@ -1,11 +1,11 @@
 # SampleBookApi
 
-It is simple book api which has a books and readers. In this repository i focused to design api based OOP principiles in Javascript NodeJS.
+It is simple book api which has a books and readers. In this repository i focused to design api based OOP principles in Javascript NodeJS.
 
 To start backend:
-cd backend
+cd backend,
 nodemon app
 
-To start frontend 
-cd frontend 
+To start frontend:
+cd frontend ,
 npm run dev
